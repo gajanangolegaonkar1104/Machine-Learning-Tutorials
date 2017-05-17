@@ -1,6 +1,6 @@
 # Machine-Learning-Tutorials
 
-This tutorial is for beginners in Machine Learning. When I studied Machine Learning, I found lack of comphrehensive tutorials availiable online.This is an effort to help the students who are interested in machine learning or have a class/course in Machine Learning in school.<br>
+This tutorial is for beginners in Machine Learning. When I studied Machine Learning, I found lack of comphrehensive tutorials available online.This is an effort to help the students who are interested in machine learning or have a class/course in Machine Learning in school.<br>
 
 The tutorials assume you have your machine learning environment set up already in R or python.<br>
 
