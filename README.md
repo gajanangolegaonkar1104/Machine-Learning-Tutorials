@@ -14,7 +14,7 @@ Dataset used: https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iri
 Dataset used: https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data
 
 # Feature Engineering techniques to improve performance of your predictive models:
-Principal Component Analysis( Dimensionality Reduction )<br>
+Data Dimensionality Reduction <br>
 Reduction in levels of Categorical Variables<br>
 Binning/Converting Numerical to Categorical variables<br>
 Standardizing or scaling numerical variables<br>
