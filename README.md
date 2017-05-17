@@ -22,4 +22,6 @@ Use of dummy variables<br>
 
 # Trivia about Machine learning algorithms ( which algorithm to use when)
 
+# Evaluating your predictive model using various techniques
+
 
